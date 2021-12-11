@@ -1,0 +1,7 @@
+gunicorn
+flask
+datetime
+numpy
+pandas==1.3.4
+requests
+scipy
